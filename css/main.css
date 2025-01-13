@@ -1,3 +1,8 @@
+body {
+    background: url(../img/white-cloud.jpeg) no-repeat;
+    background-size: cover;
+}
+
 header {
     font-family: "Lato", serif;
 }
