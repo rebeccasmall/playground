@@ -1,5 +1,7 @@
-* {
+header {
     font-family: "Lato", serif;
-    font-weight: 400;
-    font-style: normal;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
