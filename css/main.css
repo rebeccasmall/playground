@@ -5,6 +5,13 @@ body {
 
 header {
     font-family: "Lato", serif;
+    margin: 1em;
+}
+
+nav {
+    float: right;
+    position: relative;
+    bottom: 4em;
 }
 
 nav ul {
@@ -14,7 +21,7 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    padding-right: 1em;
+    margin-right: 1em;
 }
 
 img {
