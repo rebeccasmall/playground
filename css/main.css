@@ -49,6 +49,7 @@ p {
 
 footer {
     text-align: center;
+    clear: both;
 }
 
 /*** AFTER HOURS ***/
@@ -57,3 +58,4 @@ footer {
     width: 9em;
     float: left;
 }
+
