@@ -54,5 +54,6 @@ footer {
 /*** AFTER HOURS ***/
 
 .iconic {
-    width: 7em;
+    width: 9em;
+    float: left;
 }
