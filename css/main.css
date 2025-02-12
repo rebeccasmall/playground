@@ -1,3 +1,5 @@
+/****** GLOBAL STYLES ******/
+
 #home {
     background: url(../img/white-cloud.jpeg) no-repeat;
     background-size: cover;
@@ -38,6 +40,8 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+
+/****** HOME PAGE ******/
 
 #surrounded {
     border: 2px solid black;
