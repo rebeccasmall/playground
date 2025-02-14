@@ -1,9 +1,18 @@
 /****** GLOBAL STYLES ******/
 
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+
+/****** HEADER STYLES ******/
+
 header {
     background-image: url(../img/aura-header.jpg);
     background-size: cover;
-    height: 200px;
     font-family: "Lato", serif;
 }
 
