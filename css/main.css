@@ -7,13 +7,14 @@
     box-sizing: border-box;
 }
 
-
 /****** HEADER STYLES ******/
 
-header {
+.aura {
     background-image: url(../img/aura-header.jpg);
     background-size: cover;
     font-family: "Lato", serif;
+    height: 200px;
+    margin: -10;
 }
 
 header h1 {
