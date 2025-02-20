@@ -1,12 +1,17 @@
 /*** GLOBAL STYLES ***/
 
+html {
+    font-size: 16px;
+}
 
 /*** TABLET STYLES ***/
+
 @media (min-width: 768px) {
 
 }
 
 /*** DESKTOP STYLES ***/
+
 @media (min-width: 1200px) {
-    
+
 }
